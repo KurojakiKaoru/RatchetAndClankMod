@@ -16,6 +16,11 @@ out
 # gradle
 build
 .gradle
+gradle
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
 
 # other
 eclipse
